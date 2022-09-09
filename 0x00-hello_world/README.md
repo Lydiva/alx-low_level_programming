@@ -1,1 +1,1 @@
-generating the assembly code of an c code and save to an output file
+compiling a c file and creating an executable name cisfun
