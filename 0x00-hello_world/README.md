@@ -1,1 +1,1 @@
-write a program that prints the size of various types on the computer it is computer it is compiled and run on
+write a script that generates the assembly code of a c code and save it in an output file
