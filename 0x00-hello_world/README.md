@@ -1,1 +1,1 @@
-write a program that prints programming is like building a multilingual puzzle
+write a c program that prints exactly with proper grammar, but the outcome is a piece of art followed by a new line
