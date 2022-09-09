@@ -1,1 +1,1 @@
-write a script that compiles a c file but doesnt link
+generating the assembly code of an c code and save to an output file
