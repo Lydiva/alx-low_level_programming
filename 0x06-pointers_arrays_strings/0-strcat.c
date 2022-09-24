@@ -6,11 +6,12 @@
  * @dst: String that will be appended
  * @src: String to be concatenated upon 
  *
- * Return: return pointer to @dst
+ * Return: return poiner to @dst
  */
 
 char *_strcat(char *dest, char *src)
 {
+
 	int index = 0, dest_len = 0;
 
 	while (dest[index++])
