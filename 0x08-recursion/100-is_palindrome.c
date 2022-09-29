@@ -32,7 +32,7 @@ void check(char *s, int start, int end, int *flag)
 		if (s[start] == s[end])
 			*flag *= 1;
 		else
-			*flag *= 0
+			*flag *= 0;
 		check(s, start + 1, end - 1, flag);
 	}
 }
